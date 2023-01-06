@@ -3,5 +3,7 @@
 
     
 ```bash
-git clone github.com/project_S
+go get github.com/siguovo/project_S
+or 
+get clone github.com/siguovo/project_S
 ```
